@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/taokeeper.iml" filepath="$PROJECT_DIR$/taokeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taokeeper-build/taokeeper-build.iml" filepath="$PROJECT_DIR$/taokeeper-build/taokeeper-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taokeeper-common/taokeeper-common.iml" filepath="$PROJECT_DIR$/taokeeper-common/taokeeper-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taokeeper-monitor/taokeeper-monitor.iml" filepath="$PROJECT_DIR$/taokeeper-monitor/taokeeper-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taokeeper-reporter/taokeeper-reporter.iml" filepath="$PROJECT_DIR$/taokeeper-reporter/taokeeper-reporter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taokeeper-research/taokeeper-research.iml" filepath="$PROJECT_DIR$/taokeeper-research/taokeeper-research.iml" />
+    </modules>
+  </component>
+</project>
