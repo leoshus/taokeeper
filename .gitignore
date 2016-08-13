@@ -3,6 +3,7 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+!/dependencyjar/
 # Package Files #
 *.jar
 *.war
