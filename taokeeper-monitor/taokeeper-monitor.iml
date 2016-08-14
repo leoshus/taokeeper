@@ -28,7 +28,7 @@
     <orderEntry type="library" name="Maven: jline:jline:0.9.94" level="project" />
     <orderEntry type="library" name="Maven: org.jboss.netty:netty:3.2.2.Final" level="project" />
     <orderEntry type="library" name="Maven: org.apache.zookeeper:zookeeper:sources:3.4.3" level="project" />
-    <orderEntry type="library" name="Maven: com.taobao.taokeeper:zkclient:0.2-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.taokeeper:zkclient:1.0.1-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: common.toolkit:common-toolkit:0.0.6-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: common.toolkit:common-toolkit:sources:0.0.6-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.12" level="project" />
